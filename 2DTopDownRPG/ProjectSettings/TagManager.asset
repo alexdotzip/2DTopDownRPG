@@ -49,11 +49,11 @@ TagManager:
   - name: Underlay
     uniqueID: 146594723
     locked: 0
-  - name: Player
-    uniqueID: 39262999
-    locked: 0
   - name: Overlay
     uniqueID: 541490323
+    locked: 0
+  - name: Player
+    uniqueID: 39262999
     locked: 0
   - name: Top
     uniqueID: 3565354497
