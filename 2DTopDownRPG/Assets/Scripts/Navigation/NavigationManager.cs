@@ -10,6 +10,14 @@ public static class NavigationManager
         },
         {"Castle", new Route { RouteDescription  = "Almerry Keep", CanTravel = true }
         },
+        {"Town", new Route { RouteDescription  = "The Sticks", CanTravel = true }
+        },
+        {"Room", new Route { RouteDescription  = "Home of the High Councilor, a great friend to the King of the Sticks and day watcher of Princess Ailsa.", CanTravel = false }
+        },
+        {"Blacksmith", new Route { RouteDescription  = "Weapons and Armor Upgrades", CanTravel = false}
+        },
+        {"Market", new Route { RouteDescription  = "Shop for items", CanTravel = false }
+        },
     };
 
 

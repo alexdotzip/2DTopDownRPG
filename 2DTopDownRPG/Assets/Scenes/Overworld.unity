@@ -388,7 +388,7 @@ TilemapRenderer:
   m_AutoUVMaxAngle: 89
   m_LightmapParameters: {fileID: 0}
   m_SortingLayerID: 541490323
-  m_SortingLayer: 3
+  m_SortingLayer: 2
   m_SortingOrder: 0
   m_ChunkSize: {x: 32, y: 32, z: 32}
   m_ChunkCullingBounds: {x: 0, y: 0, z: 0}
@@ -2933,7 +2933,7 @@ PrefabInstance:
     - target: {fileID: 3444149261100700164, guid: 1879e03823f57f841bc02a12d236d266,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 4.405
+      value: 4.45
       objectReference: {fileID: 0}
     - target: {fileID: 3444149261100700164, guid: 1879e03823f57f841bc02a12d236d266,
         type: 3}
@@ -2988,6 +2988,11 @@ PrefabInstance:
     - target: {fileID: 3444149261100700166, guid: 1879e03823f57f841bc02a12d236d266,
         type: 3}
       propertyPath: m_Name
+      value: Town
+      objectReference: {fileID: 0}
+    - target: {fileID: 3444149261100700166, guid: 1879e03823f57f841bc02a12d236d266,
+        type: 3}
+      propertyPath: m_TagString
       value: Town
       objectReference: {fileID: 0}
     m_RemovedComponents: []

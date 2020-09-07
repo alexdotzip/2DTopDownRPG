@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 18e2a28592f48b249bdd5e2b08a3d91f
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Bowhouse
+  fontNames:
+  - Bowhouse
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e64a244459f5b5740b70446276709ee3, type: 3}
+  - {fileID: 12800000, guid: 8468c9790f70fb74a83e2c265b098b6c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

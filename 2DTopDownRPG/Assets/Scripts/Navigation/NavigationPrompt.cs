@@ -17,4 +17,18 @@ public class NavigationPrompt : MonoBehaviour
 
       
     }
+
+    private void OnTriggerEnter2D(Collider2D other)
+    {
+
+        if (NavigationManager.CanNavigate(this.tag))
+        {
+            Debug.Log("trying to enter " + tag);
+
+            NavigationManager.NavigateTo(this.tag);
+
+        }
+
+
+    }
 }

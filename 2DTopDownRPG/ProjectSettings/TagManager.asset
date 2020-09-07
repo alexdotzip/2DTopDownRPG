@@ -6,6 +6,11 @@ TagManager:
   tags:
   - Castle
   - Overworld
+  - Town
+  - Room
+  - Blacksmith
+  - Market
+  - Border
   layers:
   - Default
   - TransparentFX

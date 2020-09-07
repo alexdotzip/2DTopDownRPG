@@ -11,8 +11,9 @@ GameObject:
   - component: {fileID: 3444149261100700164}
   - component: {fileID: 3444149261100700167}
   - component: {fileID: 4271582458062620742}
+  - component: {fileID: -6759574039473152564}
   m_Layer: 0
-  m_Name: Town Point
+  m_Name: MapPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -109,3 +110,15 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.815, y: 0.855}
   m_EdgeRadius: 0
+--- !u!114 &-6759574039473152564
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3444149261100700166}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: dfbb62ef325b8ec429245d38a92eae9a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
