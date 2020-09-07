@@ -9,7 +9,7 @@ public class NavigationPrompt : MonoBehaviour
 
         if(NavigationManager.CanNavigate(this.tag))
         {
-            Debug.Log("trying to leave" + tag);
+            Debug.Log("trying to enter " + tag);
 
             NavigationManager.NavigateTo(this.tag);
 
