@@ -6,7 +6,7 @@
 public class ConversationEntry 
 {
     public string SpeakingCharacterName;
-    public string ConversationObject;
+    public string ConversationText;
     public Sprite DisplayPic;
 
 }

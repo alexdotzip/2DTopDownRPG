@@ -2,7 +2,8 @@
 using UnityEditor;
 using UnityEngine;
 
-public static class CustomAssetUtility {
+public static class CustomAssetUtility
+{
 
     public static void CreateAsset<T>() where T : ScriptableObject
     {

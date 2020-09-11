@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 442efc986ea527a46ba13a24c0b47d87, type: 3}
+  m_Name: CouncilorWarning
+  m_EditorClassIdentifier: 
+  ConversationLines:
+  - SpeakingCharacterName: Councilor
+    ConversationText: My goodness Princess!!
+    DisplayPic: {fileID: 1495568202435953415, guid: e233375058e907147a420214d7063c22,
+      type: 3}
+  - SpeakingCharacterName: Ailsa
+    ConversationText: What's wrong!!?
+    DisplayPic: {fileID: 1259554203563612604, guid: 91d93a7c922b7d44986884315762f1ca,
+      type: 3}
+  - SpeakingCharacterName: Councilor
+    ConversationText: Did you hear the noises from the castle!!?
+    DisplayPic: {fileID: 1495568202435953415, guid: e233375058e907147a420214d7063c22,
+      type: 3}
+  - SpeakingCharacterName: Councilor
+    ConversationText: Every Knight and Guard in the Kingdom has gone to see
+    DisplayPic: {fileID: 1495568202435953415, guid: e233375058e907147a420214d7063c22,
+      type: 3}
+  - SpeakingCharacterName: Ailsa
+    ConversationText: ....
+    DisplayPic: {fileID: 1259554203563612604, guid: 91d93a7c922b7d44986884315762f1ca,
+      type: 3}
