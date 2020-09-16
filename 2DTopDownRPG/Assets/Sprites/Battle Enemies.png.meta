@@ -7,31 +7,31 @@ TextureImporter:
     second: spider
   - first:
       213: 21300002
-    second: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_1
+    second: gargoile
   - first:
       213: 21300004
-    second: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_2
+    second: bee
   - first:
       213: 21300006
-    second: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_3
+    second: slitheren
   - first:
       213: 21300008
-    second: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_4
+    second: orc
   - first:
       213: 21300010
-    second: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_5
+    second: eyeball
   - first:
       213: 21300012
-    second: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_6
+    second: wizard
   - first:
       213: 21300014
-    second: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_7
+    second: undead
   - first:
       213: 21300016
-    second: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_8
+    second: lizard
   - first:
       213: 21300018
-    second: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_9
+    second: slime
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
@@ -210,15 +210,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_1
+      name: gargoile
       rect:
         serializedVersion: 2
         x: 56
         y: 192
         width: 26
         height: 31
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -231,15 +231,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_2
+      name: bee
       rect:
         serializedVersion: 2
         x: 9
         y: 146
         width: 37
         height: 34
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -252,15 +252,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_3
+      name: slitheren
       rect:
         serializedVersion: 2
         x: 55
         y: 136
         width: 28
         height: 45
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -273,15 +273,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_4
+      name: orc
       rect:
         serializedVersion: 2
         x: 18
         y: 94
         width: 33
         height: 32
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -294,15 +294,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_5
+      name: eyeball
       rect:
         serializedVersion: 2
         x: 61
         y: 100
         width: 19
         height: 27
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -315,15 +315,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_6
+      name: wizard
       rect:
         serializedVersion: 2
         x: 17
         y: 46
         width: 32
         height: 33
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -336,15 +336,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_7
+      name: undead
       rect:
         serializedVersion: 2
         x: 56
         y: 46
         width: 29
         height: 35
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -357,15 +357,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_8
+      name: lizard
       rect:
         serializedVersion: 2
         x: 15
         y: 13
         width: 41
         height: 22
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -378,15 +378,15 @@ TextureImporter:
       edges: []
       weights: []
     - serializedVersion: 2
-      name: rpgcritters2 - Stephen 'Redshrike' Challener, hosted by OpenGameArt.org_9
+      name: slime
       rect:
         serializedVersion: 2
         x: 64
         y: 12
         width: 24
         height: 19
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
