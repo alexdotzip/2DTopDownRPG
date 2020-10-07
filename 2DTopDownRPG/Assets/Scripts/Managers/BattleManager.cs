@@ -48,6 +48,7 @@ public class BattleManager : MonoBehaviour
 
     public void RunAway()
     {
+        GameState.justExitedBattle = true;
         NavigationManager.NavigateTo("Overworld");
     }
 

@@ -1207,6 +1207,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 931044261}
     m_Modifications:
+    - target: {fileID: -6759574039473152564, guid: 1879e03823f57f841bc02a12d236d266,
+        type: 3}
+      propertyPath: startingPosition.x
+      value: -2.6
+      objectReference: {fileID: 0}
+    - target: {fileID: -6759574039473152564, guid: 1879e03823f57f841bc02a12d236d266,
+        type: 3}
+      propertyPath: startingPosition.y
+      value: 3.3
+      objectReference: {fileID: 0}
     - target: {fileID: 3444149261100700164, guid: 1879e03823f57f841bc02a12d236d266,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -1273,6 +1283,16 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 6764342401217570292, guid: 29465111499781e4b9f9e0afb8729cbf,
         type: 3}
+    - target: {fileID: 4271582458062620742, guid: 1879e03823f57f841bc02a12d236d266,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.x
+      value: 0.60333335
+      objectReference: {fileID: 0}
+    - target: {fileID: 4271582458062620742, guid: 1879e03823f57f841bc02a12d236d266,
+        type: 3}
+      propertyPath: m_SpriteTilingProperty.oldSize.y
+      value: 0.93666667
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 1879e03823f57f841bc02a12d236d266, type: 3}
 --- !u!4 &343872625 stripped
@@ -2901,12 +2921,12 @@ PrefabInstance:
     - target: {fileID: 8787774193974376812, guid: 302c91618c8801840bba2b1b7453e806,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 1.8889008
+      value: 2.8
       objectReference: {fileID: 0}
     - target: {fileID: 8787774193974376812, guid: 302c91618c8801840bba2b1b7453e806,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: -2.5534873
+      value: 3.33
       objectReference: {fileID: 0}
     - target: {fileID: 8787774193974376812, guid: 302c91618c8801840bba2b1b7453e806,
         type: 3}
@@ -3036,6 +3056,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 1611850145}
     m_Modifications:
+    - target: {fileID: -6759574039473152564, guid: 1879e03823f57f841bc02a12d236d266,
+        type: 3}
+      propertyPath: startingPosition.x
+      value: 1.8
+      objectReference: {fileID: 0}
+    - target: {fileID: -6759574039473152564, guid: 1879e03823f57f841bc02a12d236d266,
+        type: 3}
+      propertyPath: startingPosition.y
+      value: -2.5
+      objectReference: {fileID: 0}
     - target: {fileID: 3444149261100700164, guid: 1879e03823f57f841bc02a12d236d266,
         type: 3}
       propertyPath: m_LocalPosition.x

@@ -8,6 +8,9 @@ public static class GameState
 
     public static Dictionary<string, Vector3> LastScenePositions = new Dictionary<string, Vector3>();
 
+    public static bool justExitedBattle;
+
+    public static bool saveLastPosition = true;
     public static Vector3 GetLastScenePosition(string sceneName)
     {
         if (GameState.LastScenePositions.ContainsKey(sceneName))
@@ -21,7 +24,7 @@ public static class GameState
         }
     }
 
-    public static void SetLastPosition(string sceneName, Vector3 position) 
+    public static void SetLastScenePosition(string sceneName, Vector3 position) 
     
     {
         if (GameState.LastScenePositions.ContainsKey(sceneName))

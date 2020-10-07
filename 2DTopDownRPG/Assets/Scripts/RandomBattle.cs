@@ -26,11 +26,21 @@ public class RandomBattle : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D other)
     {
-        encounterChance = Random.Range(1, 100);
-        if(encounterChance > battleProbability)
+
+        if(!GameState.justExitedBattle)
+        {
+            encounterChance = Random.Range(1, 100);
+            if (encounterChance > battleProbability)
+            {
+                StartCoroutine(RecalculateChance());
+            }
+        }
+        else
         {
             StartCoroutine(RecalculateChance());
+            GameState.justExitedBattle = false;
         }
+       
     }
 
     IEnumerator RecalculateChance()
